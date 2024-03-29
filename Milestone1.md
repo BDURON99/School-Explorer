@@ -16,9 +16,11 @@ Our visualization project aims to examine the diversity of schools in selected c
 ## Exploratory Data Analysis
 This part contains results both from the World Bank [database exploratory tool](https://data.worldbank.org/topic/education?year=2021) and from the manual EDA that can be found in the notebook Milestone1.ipynb. 
 
-![img](School-Explorer/m1_images/Screen Shot 2024-03-29 at 03.18.59.png)
+![](data/img1.png)
 
-<iframe src="https://data.worldbank.org/share/widget?indicators=SE.PRM.UNER.ZS&view=map&year=2021" width='450' height='300' frameBorder='0' scrolling="no" ></iframe>
+![](data/img2.png)
+
+![](data/img3.png)
 
 ## Related Work
 - **What others have already done with the data?**
